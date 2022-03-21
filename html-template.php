@@ -2,7 +2,8 @@
 /**
  * HTML Template for homepage, edit this to your liking
  * 
- * @package wp-headless-theme
+ * @package WordPress
+ * @subpackage wp-headless-theme 
  */
 ?>
 
