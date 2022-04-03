@@ -1,6 +1,6 @@
 # WP Headless Theme
 
-Dead-simple blank WordPress theme for headless WP Gods. 
+Dead-simple blank WordPress theme for headless WP projects. 
 
 It just renders a dummy JSON object leaving you worry-free about the useless static stuff that WP Core & plugins might load on page.
 
